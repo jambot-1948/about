@@ -1,37 +1,53 @@
+<div align="left">
+
+# Jamil Jadallah (aka Jambot)
+**Strategic Operator | VP of Product | Patent Holder | Systems Observer**
+
 ### What I Do
+* Build product operating models that align engineering, design, and customer success.  
+* Scale platforms from pilot to production.  
+* Help executives quantify technical debt and organizational friction.
 
-I build product operating models that align engineering, design, and customer success. I specialize in scaling platforms from pilot to production and helping executives quantify technical debt and organizational friction.
+---
 
-### Perspective & Philosophy
+</div>
 
+### 🔍 Perspective & Philosophy
 Jambot is an observer of systems and a student of human work. Having navigated high-stakes environments—from financial compliance to defense software factories—I specialize in bridging the gap between organizational intent and engineering reality. My work is focused on making the invisible friction in scaling organizations visible and actionable.
 
-"The most persistent bugs aren't found in the code, but in the language we use to describe it."
+> "The most persistent bugs aren't found in the code, but in the language we use to describe it."
+
+---
 
 ### Career Highlights
+I transform how engineering organizations work by aligning cross-functional teams to drive measurable business outcomes.
 
-* I transform how engineering organizations work by aligning cross-functional teams to drive measurable business outcomes.
+* **BrainGu (VP of Product):** Transformed fragmented delivery into a market-leading platform for 10,000+ users; generated **$16M+ in renewals** with 100% customer retention.
+* **Oteemo (VP of Delivery):** Managed an 8-figure P&L during a **3x revenue growth** cycle ($6M to $20M+) by establishing replicable product methodologies.
+* **Capital One (Product Lead):** Orchestrated delivery of the company's first production Kubernetes platform, featured in a **CNCF industry case study**.
+* **Intellectual Property:** Co-inventor of **US Patent 12,106,240 B2** (Using Machine Learning to analyze user project workflows).
 
-* BrainGu: Scaled PaaS from <100 to 10,000+ users; generated $16M+ in renewals with 100% retention.
-
-* Oteemo: Grew revenue 3x ($6M to $20M+) by establishing replicable product methodologies.
-
-* Capital One: Orchestrated delivery of the company's first production Kubernetes platform, featured in a CNCF case study.
-
-Intellectual Property: Co-inventor of US Patent 12,106,240 B2 (Machine Learning analysis of organizational workflows).
+---
 
 ### Digital Presence & Research
-
 I am currently focused on quantifying the "Innovation Tax" and Linguistic Debt in large-scale systems. You can follow my work and research here:
 
-* Strategic Advisory: thejambot.com
+* **Strategic Advisory:** [thejambot.com](https://thejambot.com)
+* **Research Lab:** [Beyond The Alignment (BTA)](https://beyondthealignment.netlify.app/)
 
-* Research Lab: Beyond The Alignment (BTA)
+---
 
 ### Core Expertise
+* **Product:** Product-Led Growth (PLG), 0-to-1 Innovation, Product Operating Model Design, GTM Strategy.
+* **Technical:** Platform Engineering, Cloud-Native Architecture, Kubernetes, AI/ML Applications.
+* **Operations:** 8-figure P&L Management, KPI/OKR Alignment, Federal & Gov Markets.
 
-* Product: PLG, 0-to-1 Innovation, Product Operating Model Design, GTM Strategy.
+---
 
-* Technical: Platform Engineering, Cloud-Native Architecture, AI/GenAI Integration.
+### Engagement
+I am available for executive advisory roles, product strategy transformations, and technical debt quantification for organizations scaling their engineering practices.
 
-* Operations: 8-figure P&L Management, KPI/OKR Alignment, Federal & Gov Markets.
+<p align="center">
+  <br />
+  <small><i>Disclaimer: All opinions expressed here are my own and do not represent those I currently or previously walk beside.</i></small>
+</p>
