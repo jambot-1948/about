@@ -15,7 +15,7 @@ I transform how engineering organizations work by aligning cross-functional team
 
 * **BrainGu (VP of Product):** Transformed fragmented delivery into a market-leading platform for 10,000+ users; generated **$16M+ in renewals** with 100% customer retention.
 * **Oteemo (VP of Delivery):** Managed an 8-figure P&L during a **3x revenue growth** cycle ($6M to $20M+) by establishing replicable product methodologies.
-* **Capital One (Product Lead):** Orchestrated delivery of the company's first production Kubernetes platform, featured in a **CNCF industry case study**.
+* **Capital One (Program Lead):** Orchestrated delivery of the company's first production Kubernetes platform, featured in a **CNCF industry case study**.
 * **Intellectual Property:** Co-inventor of **US Patent 12,106,240 B2** (Using Machine Learning to analyze user project workflows).
 
 ---
