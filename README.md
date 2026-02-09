@@ -10,15 +10,6 @@
 
 ---
 
-</div>
-
-### 🔍 Perspective & Philosophy
-Jambot is an observer of systems and a student of human work. Having navigated high-stakes environments—from financial compliance to defense software factories—I specialize in bridging the gap between organizational intent and engineering reality. My work is focused on making the invisible friction in scaling organizations visible and actionable.
-
-> "The most persistent bugs aren't found in the code, but in the language we use to describe it."
-
----
-
 ### Career Highlights
 I transform how engineering organizations work by aligning cross-functional teams to drive measurable business outcomes.
 
